@@ -6,9 +6,9 @@ In this project, your goal is to write a software pipeline to identify the lane 
 
 For Udacity reviewers:
 ---
-[writeup.md](https://github.com/WangYuanMike/CarND-Advanced-Lane-Lines/blob/master/writeup.md): writeup of my project implementation
-[advance_lane_line.ipynb](https://github.com/WangYuanMike/CarND-Advanced-Lane-Lines/blob/master/advanced_lane_line.ipynb): all my coding and example images
-[P4_video_final.mp4](https://github.com/WangYuanMike/CarND-Advanced-Lane-Lines/blob/master/P4_video_final.mp4): video file with lane lines
+* [writeup.md](https://github.com/WangYuanMike/CarND-Advanced-Lane-Lines/blob/master/writeup.md): writeup of my project implementation
+* [advance_lane_line.ipynb](https://github.com/WangYuanMike/CarND-Advanced-Lane-Lines/blob/master/advanced_lane_line.ipynb): all my coding and example images
+* [P4_video_final.mp4](https://github.com/WangYuanMike/CarND-Advanced-Lane-Lines/blob/master/P4_video_final.mp4): video file with lane lines
 
 Creating a great writeup:
 ---
